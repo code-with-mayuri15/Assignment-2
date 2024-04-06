@@ -30,15 +30,14 @@ Updated the repository's README.md file with documentation of the project setup,
 
 Project Setup
 Clone the repository: 
-git clone <repository-url>
+git clone https://drive.google.com/file/d/12gZcH1Jr1xWWRzyH3yMqJ9DV_3rlHsnK/view?usp=sharing
 Follow the instructions in the Deployment Guide to deploy the application on a local Kubernetes cluster.
 Follow the instructions in the Load Testing Guide to conduct stress testing using the hey tool.
 
 
-
-
-Technologies Used
-Kubernetes
-Node.js
-Horizontal Pod Autoscaler (HPA)
-hey (load testing tool)
+ 
+ Technologies Used
+• Kubernetes
+• Node.js
+• Horizontal Pod Autoscaler (HPA)
+• hey (load testing tool)
